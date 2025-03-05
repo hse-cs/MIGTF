@@ -5,7 +5,9 @@ Abstract: In this paper, we propose a new geometric approach for knowledge graph
 We evaluate our mixed geometry model for link prediction task on three standard knowledge graphs: WN18RR, FB15k-237 and YAGO3-10. We compute metrics: HR@10, HR@3, HR@1, MRR.
 
 Versions of python packages:
+
 numpy $1.26.4$
+
 torch $2.1.2+cpu$
 
 
